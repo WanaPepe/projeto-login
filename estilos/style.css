@@ -85,10 +85,6 @@ div.campo > span {
     font-size: 1.5em;
 }
 
-div.campo >input[type=password] {
-    margin-bottom: 20px;
-}
-
 div.campo > input {
     font-size: 1em;
     width: calc(100% - 44px);

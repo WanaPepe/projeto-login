@@ -23,6 +23,10 @@ section#login > div.formulario {
 
 }
 
+div.campo >input[type=password] {
+    margin-bottom: 20px;
+}
+
 @media screen and (min-width: 992px) {
     body {
         background-image: linear-gradient(to top, #F2E0C9, #025E73);
@@ -47,4 +51,8 @@ section#login > div.formulario {
 div.formulario > p {
     font-size: 1em;
     margin: 20px 0px;
+}
+
+div.campo >input[type=password] {
+    margin-bottom: 20px;
 }
